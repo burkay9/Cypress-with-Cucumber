@@ -30,6 +30,6 @@ To run the tests, open a terminal window and enter
 npx cypress open
 ```
 
-Once the Cypress UI runner is open, choose the 'E2E Testing' option.
-Next: Keep the default browser as Chrome and click the 'Start E2E Testing in Chrome' button to continue.
-Next: Choose the holidayCalculator feature file where all the Scenarios reside.
+Once the Cypress UI runner is open, choose the 'E2E Testing' option. <br />
+Next: Keep the default browser as Chrome and click the 'Start E2E Testing in Chrome' button to continue. <br />
+Next: Choose the holidayCalculator feature file where all the Scenarios reside. <br />
