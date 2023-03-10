@@ -1,0 +1,8 @@
+### Node ###
+node_modules
+
+### Cypress ###
+/cypress/fixtures/example.json
+/cypress/videos/
+/cypress/screenshots
+/cypress/report/
