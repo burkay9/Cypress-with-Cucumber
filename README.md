@@ -10,6 +10,12 @@ Clone the repository:
 git clone https://github.com/burkay9/Cypress-with-Cucumber.git
 ```
 
+Change directory to the project folder
+
+```sh
+cd Cypress-with-Cucumber
+```
+
 Install dependencies:
 
 ```sh
